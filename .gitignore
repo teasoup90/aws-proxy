@@ -1,8 +1,5 @@
 node_modules/
 .env
-.DS_Store
-keys/*.pem
-logs/
+*.pem
 *.log
-server/keys/*.pem
-server/data/*.json
+.DS_Store
